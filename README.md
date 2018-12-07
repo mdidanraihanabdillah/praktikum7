@@ -106,7 +106,7 @@ main()
 }
 ```
 **Hasiil**
-![Hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal2.png)
+![Hasil](https://github.com/mdidanraihanabdillah/praktikum7/blob/master/soal2.png)
 
 ##soal3.cpp
 **Alur Argoritma**
@@ -121,12 +121,12 @@ main()
 #include
 #include
 void balik(char *k){
-if(*k!=î){
+if(*k!=‚Äù){
 balik(&k[1]);
 cout<
 }
 }main(){
-char *kata=î....î;--> //untuk masukan kata
+char *kata=‚Äù....‚Äù;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
@@ -152,4 +152,4 @@ int main()
 }
 ```
 **Hasil**
-![hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal3.png)
+![hasil]()
