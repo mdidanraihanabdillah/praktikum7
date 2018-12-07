@@ -99,7 +99,7 @@ main()
 {
  int a, b;
  cout << "Masukan Bilangan : ";
- cin >> a;
+https://github.com/mdidanraihanabdillah/praktikum7/blob/master/soal3.png cin >> a;
  cout << "Dikli Dengan :";
  cin >> b;
  cout << " AxB = " << kali_rekursif(a, b) << endl;
@@ -152,4 +152,4 @@ int main()
 }
 ```
 **Hasil**
-![hasil]()
+![hasil](https://github.com/mdidanraihanabdillah/praktikum7/blob/master/soal3.png)
